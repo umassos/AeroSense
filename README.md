@@ -25,4 +25,7 @@ BibTeX Reference:
 ```
 
 
+## Contact
+
+For more information, please contact bchhaglani@umass.edu
 
