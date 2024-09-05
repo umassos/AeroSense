@@ -11,7 +11,7 @@ The types of human activities occupants are engaged in within indoor spaces sign
 ##Reference
 
 BibTeX Reference:
-'''
+```
 @article{chhaglani2024aerosense,
   title={AeroSense: Sensing Aerosol Emissions from Indoor Human Activities},
   author={Chhaglani, Bhawana and Zakaria, Camellia and Peltier, Richard and Gummeson, Jeremy and Shenoy, Prashant},
@@ -22,7 +22,7 @@ BibTeX Reference:
   year={2024},
   publisher={ACM New York, NY, USA}
 }
-'''
+```
 
 
 
